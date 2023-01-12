@@ -12,4 +12,4 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/nickkempe) if you ar
 * Analysed relationships between variables
 * **Keywords**(EDA, Board Games)
 
-![image] (https://github.com/NickBDA/BoardGameGeekEDA/blob/main/src/Img/catwordcloud.png)
+![image](https://github.com/NickBDA/BoardGameGeekEDA/blob/main/src/Img/catwordcloud.png)
